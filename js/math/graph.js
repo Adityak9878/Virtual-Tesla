@@ -72,4 +72,4 @@ class Graph {
           point.draw(ctx);
        }
     }
- }
+ } 
